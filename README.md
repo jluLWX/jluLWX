@@ -9,7 +9,7 @@
 <img src='./Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
-- :school: I'm [Wenxuan Li](https://github.com/jluLWX), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
+- :school: I'm [Wenxuan Li](https://github.com/jluLWX)  </a>
 - 🔭 I’m currently working on  **Teaching Mathematics**
 - :neutral_face: I have a **love/hate** relationship with **Programming**
 - 🌱 I’m currently Working with Suzhou vocational University,**Jilin University and Jilin Agricultural University**
